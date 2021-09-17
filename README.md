@@ -13,11 +13,12 @@ IMDB: https://www.imdb.com/interfaces/
 ## Repository Contents
 
 - `README.md`: The README for this repo branch explaining it's contents - you're reading it now
-- `microsoft_movie_reccomendations2.ipynb`: A Jupyter Notebook with headings, code explinations and visuals
+- `microsoft_movie_reccomendations.ipynb`: A Jupyter Notebook with headings, code explinations and visuals
 - `__init__.py`: Python helper file that tells Python that there are images, packages in the repository that can be imported
 - `data` folder: A folder for the data referenced in the code
 - `.ipynb_checkpoints` folder: A folder containing the jupyter notebook checkpoints 
 - `explorations` folder: A folder containing individual workbooks by members of the team to doodle out ideas on our own. 
+- `Kelsey_Drew_Lenore presentation slides.pdf` A PDF copy of the presentation slides
 - `.gitignore`: A hidden file that tells git to not track certain files and folders
 - `LICENSE.md`: A file with Flatiron's Licence and usage information
 

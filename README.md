@@ -1,13 +1,26 @@
-# Phase 1 Project Templates and Examples
+# Phase 1 Project Lenore / Kelsey and Drew
 
-This repo contains templates and examples to help you get started with your Phase 1 Project. Each of these is in a separate branch as explained below.
+Summary
 
-- The **template-mvp** branch is the template you should use to for your Phase 1 Project. MVP stands for Minimum Viable Product, but this isn't meant in a negative way - if your project uses this template, it will be functional and accessible.
+## Links to Presentation and Sources
 
-- The **example-mvp** branch is an example project using the MVP template.
+Link to Google Slides, IMDB and other general sources
 
-Once you've completed your project using the MVP template, you can improve it using the Above and Beyond (AAB) template if you have time:
+## Repository Contents
 
-- The **template-aab** branch is the AAB template to use to keep improving your project.
+- `README.md`: The README for this repo branch explaining it's contents - you're reading it now
+- `Final Notebook.ipynb`: A Jupyter Notebook with headings, code explinations and visuals
+- `DS_Project_Presentation.pdf`: PDF version of presentation slide decks
+- `__init__.py`: Python helper file that tells Python that there are packages in the repository that can be imported
+- `data` folder: A folder for the data referenced in the code
+- `images` folder: A folder for the images referenced in slide deck and jupyter notebook
+- `code` folder: A folder for the python scripts that your Jupyter Notebook imports
+  - `__init__.py`: Python helper file that tells Python that there are packages in this folder that can be imported
+  - `data_cleaning.py`: Code to prepare data for analysis
+  - `visualizations.py`: Code to produce visualizations
+  - `eda_notebook.ipynb`: Notebook with any messy EDA so the main notebook can be more readable
+- `.gitignore`: A hidden file that tells git to not track certain files and folders
 
-- The **example-aab** branch is an example project using the AAB template.
+## Commit History
+
+our commit history here
